@@ -17,7 +17,7 @@ GEM
       clamp (~> 0.6)
       ffi
       json (>= 1.7.7)
-    json (1.8.3)
+    json (2.3.1)
 
 PLATFORMS
   ruby
