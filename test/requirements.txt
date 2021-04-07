@@ -1,4 +1,4 @@
-bottle==0.12.8
+bottle==0.12.19
 CherryPy==3.8.0
 mongo-orchestration==0.4
 pymongo==3.0.3
